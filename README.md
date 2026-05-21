@@ -1,1 +1,1 @@
-# cloninig
+cloning process
